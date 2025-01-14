@@ -1,6 +1,6 @@
 const { Telegraf } = require('telegraf')
 const fetch = require('node-fetch')
-let token = '6185140982:AAGSqdrDGMl_1h2LMkoeKMICWZKbd8LbGu5M'
+let token = '7922669430:AAER8KHpHHropOW-HMA6X_S4-HimsolpQ4A'
 const bot = new Telegraf(token)
 
 async function downloadFile(fileUrl) {
